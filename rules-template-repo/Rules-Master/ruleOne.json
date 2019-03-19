@@ -1,0 +1,6 @@
+{
+  "ruleId" : 0,
+  "ruleName" : "ruleOne",
+  "ruleDefinition" : "<xml>First rule test 3<xml>",
+  "ruleVersionId" : "123"
+}
